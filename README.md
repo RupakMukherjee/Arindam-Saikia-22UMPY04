@@ -78,5 +78,5 @@ The methodology includes the following key steps:
 ---
 ## Other Links
 
-**Full Project Report** : [PDF](RupakMukherjee/Arindam-Saikia-22UMPY04/report.pdf)
+**Full Project Report** : [PDF](report.pdf)
 Email: arindamsaikia16@gmail.com
