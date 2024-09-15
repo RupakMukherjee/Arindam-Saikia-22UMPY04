@@ -47,20 +47,24 @@ The methodology includes the following key steps:
 ## Results
 
 - Problem 1 : **u = 11x + 5y** data
+
 ![Surface Plot of the Equation.](image1.png)
 ![Scatter plot of the data points and the fitted regression line.](image2.png)
 
 - Problem 2 : **u = 11xy + 5y^2** data
+
 ![Surface Plot of the Equation.](image3.png)
 ![Plot of the data points and the fitted regression surface.](image4.png)
 
 - Problem 3 : **Phase Coupled Kuramoto Model's Order Parameter**
+
 ![Order Paramter trend.](image5.png)
 ![Kuramoto order paramter over time.](image6.png)
 ![Weightage of terms obtained from Lasso Regression.](image7.png)
 ![Reconstruction of Data from obtained terms.](image8.png)
 
 - Problem 4 : **Amplitude-Variated Phase coupled Kuramoto Model’s Order Parameter**
+
 ![Order parameter trend.](image9.png)
 ![Sparsity Paramter comparison on terms(i)](image10a.png)
 ![Sparsity Paramter comparison on terms(ii)](image10b.png)
@@ -68,6 +72,7 @@ The methodology includes the following key steps:
 ![Sparsity Paramter comparison on model(ii)](image11b.png)
 
 - Problem 5 : **Gaussian + Sine profile with Noise data**
+
 ![Output Plots for t=0](image12.png)
 ![Output Plots for t=0.5](image13.png)
 ![Output Plots for t=1](image14.png)
