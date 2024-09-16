@@ -67,7 +67,7 @@ The methodology includes the following key steps:
 ![Order Parameter trend.](image5.png)  
 *Order Parameter trend.*
 
-![Kuramoto order parameter over time.](RupakMukherjee/Arindam-Saikia-22UMPY04/blob/c662bc56b1fd41f925aeb729ff81e0a8888ea1bc/image6.png)  
+![Kuramoto order parameter over time.](image6.png)  
 *Kuramoto order parameter over time.*
 
 ![Weightage of terms obtained from Lasso Regression.](image7.png)  
