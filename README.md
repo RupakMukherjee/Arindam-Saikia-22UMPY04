@@ -121,4 +121,6 @@ The methodology includes the following key steps:
 ## Other Links
 
 **Full Project Report** : [PDF](report.pdf)  
+**Source Codes** : [Linear Regression-linear](lstlinear.py), [Linear Regression-nonlinear](lstlinear2.py), [Lasso Regression-standard kuramoto](LassoKuramoto.py), [Lasso Regression-varied kuramoto](LassovarKuramoto.py), [POD1](podmodes.py), [POD2](podmodesL1.py)
+
 Email: arindamsaikia16@gmail.com
